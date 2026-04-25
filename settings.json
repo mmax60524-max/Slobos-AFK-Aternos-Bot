@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CreatorInsel1.aternos.me:15702",
+    "ip": "CreatorInsel1.aternos.me",
     "port": 27586,
     "version": "1.21.1",
     "try-creative": false
